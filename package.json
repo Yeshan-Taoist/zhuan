@@ -1,0 +1,36 @@
+{
+  "name": "zhuan",
+  "version": "1.0.0",
+  "description": "中级注册安全工程师备考",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeshan-Taoist/zhuan.git"
+  },
+  "author": "Yeshan-Taoist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeshan-Taoist/zhuan/issues"
+  },
+  "homepage": "https://github.com/Yeshan-Taoist/zhuan#readme",
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-emoji": "^3.0.0",
+    "markdown-it-katex": "^2.0.3",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0",
+    "vitepress": "^1.1.4",
+    "vue": "^3.4.27"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}
