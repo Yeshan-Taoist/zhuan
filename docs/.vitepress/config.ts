@@ -13,7 +13,6 @@ export default defineConfig({
   // 忽略死链
   ignoreDeadLinks: true,
   //暗黑模式
-  appearance: "dark",
 
   head: [
     [
