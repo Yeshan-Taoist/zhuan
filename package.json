@@ -32,5 +32,6 @@
   },
   "directories": {
     "doc": "docs"
-  }
+  },
+  "type": "module"
 }
